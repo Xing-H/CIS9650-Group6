@@ -32,6 +32,7 @@ Data Exploratory analysis: matplotlib,
 Part1: Data Preprocessing and Exploratory
 ====
 ![GroupProject Step1](https://user-images.githubusercontent.com/83876072/117866253-eb5ac400-b264-11eb-9e0c-aedb9da47fcd.png)
+
 Over the past decade or so, we have been able to see the number of shootings decline each year, and by the year ending 2019 the number of shootings in our cities was at the lowest level in the data
 
 Part2: Visualization
