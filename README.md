@@ -37,3 +37,7 @@ Over the past decade or so, we have been able to see the number of shootings dec
 
 Part2: Visualization
 ===
+![Step3](https://user-images.githubusercontent.com/83876072/118066082-0cf2a300-b36c-11eb-81a8-f9f9d95ef1cd.png)
+
+We can see a similar trend in both the Bronx and Brooklyn graphs, with both having the highest chance of an accident at night (6-12), followed by midnight. The trend is similar for Manhattan, Queens, and Staten Island, with more accidents occurring after midnight followed by night. However, the same is true for all boroughs where the morning is always the safest time.
+
