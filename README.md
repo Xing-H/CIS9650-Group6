@@ -60,7 +60,9 @@ As we can see that roughly 82% of the victims were between the ages of 18-44. Yo
 
 ## Were the shootings purposeful?
 
-We are able to see from the statistical chart that only 19.1% are planned murders, e.g. you may have had a conflict with someone else/have a dispute of interest. But for 80.9% of the victims, there is no reason. Random shootings are the most frequent in New York
 ![STEP6](https://user-images.githubusercontent.com/83876072/118184385-45948a00-b409-11eb-87d2-50570f6aee0f.png)
+
+
+We are able to see from the statistical chart that only 19.1% are planned murders, e.g. you may have had a conflict with someone else/have a dispute of interest. But for 80.9% of the victims, there is no reason. Random shootings are the most frequent in New York
 
 
