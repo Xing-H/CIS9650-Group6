@@ -49,8 +49,18 @@ According to the chart, the darker the color of the area, the more the total num
 
 
 
-# Shooting case counts per time period
+## Shooting case counts per time period
 ![Step3](https://user-images.githubusercontent.com/83876072/118066082-0cf2a300-b36c-11eb-81a8-f9f9d95ef1cd.png)
 
 We can see a similar trend in both the Bronx and Brooklyn graphs, with both having the highest chance of an accident at night (6-12), followed by midnight. The trend is similar for Manhattan, Queens, and Staten Island, with more accidents occurring after midnight followed by night. However, the same is true for all boroughs where the morning is always the safest time.
+## Age distribution of victims
+![VictimsAge](https://user-images.githubusercontent.com/83876072/118179461-54783e00-b403-11eb-8c34-019eb9103ee4.png)
+
+As we can see that roughly 82% of the victims were between the ages of 18-44. Younger people and older people account for less than 20% of the victims.
+
+## Were the shootings purposeful?
+
+We are able to see from the statistical chart that only 19.1% are planned murders, e.g. you may have had a conflict with someone else/have a dispute of interest. But for 80.9% of the victims, there is no reason. Random shootings are the most frequent in New York
+![STEP6](https://user-images.githubusercontent.com/83876072/118184385-45948a00-b409-11eb-87d2-50570f6aee0f.png)
+
 
