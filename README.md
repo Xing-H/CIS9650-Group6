@@ -29,14 +29,27 @@ Data Cleanning: pandas
 
 Data Exploratory analysis: matplotlib,
 
-Part1: Data Preprocessing and Exploratory
+ Data Preprocessing and Exploratory
 ====
 ![GroupProject Step1](https://user-images.githubusercontent.com/83876072/117866253-eb5ac400-b264-11eb-9e0c-aedb9da47fcd.png)
 
 Over the past decade or so, we have been able to see the number of shootings decline each year, and by the year ending 2019 the number of shootings in our cities was at the lowest level in the data
 
-Part2: Visualization
+ Visualization
 ===
+## Shooting case counts per boro
+![Step4](https://user-images.githubusercontent.com/83876072/118156492-6946d880-b3e7-11eb-84dc-1646a5372518.png)
+
+
+According to the chart, the darker the color of the area, the more the total number of shootings, first is the highest BROOKLYN in 14 years with 8913 incidents, and then the lowest is STATEN ISLAND with 646 incidents.
+
+
+
+
+
+
+
+# Shooting case counts per time period
 ![Step3](https://user-images.githubusercontent.com/83876072/118066082-0cf2a300-b36c-11eb-81a8-f9f9d95ef1cd.png)
 
 We can see a similar trend in both the Bronx and Brooklyn graphs, with both having the highest chance of an accident at night (6-12), followed by midnight. The trend is similar for Manhattan, Queens, and Staten Island, with more accidents occurring after midnight followed by night. However, the same is true for all boroughs where the morning is always the safest time.
