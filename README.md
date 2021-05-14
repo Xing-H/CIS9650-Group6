@@ -47,6 +47,11 @@ According to the chart, the darker the color of the area, the more the total num
 
 
 
+## Shooting case counts per month
+
+![Month](https://user-images.githubusercontent.com/83876072/118204777-fc563180-b42c-11eb-8c40-ad63d4b24298.png)
+
+As we can see, the temperature of the weather has a effect on the crime rate. The hotter the weather, the higher the number of shootings
 
 
 ## Shooting case counts per time period
