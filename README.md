@@ -25,9 +25,9 @@ Metadata Created Date 	November 10, 2020
 
 Python Libraries
 =====
-Data Cleanning: pandas
+Data Cleanning:  pandas, numpy
 
-Data Exploratory analysis: matplotlib,
+Data Exploratory analysis: matplotlib,datetime,folium...
 
  Data Preprocessing and Exploratory
 ====
